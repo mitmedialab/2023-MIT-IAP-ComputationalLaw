@@ -2,7 +2,7 @@
 
 **Date** :: *January 19, 2023*
 
-**Time** :: *2 - 3:30 Eastern Time US*
+**Time** :: *2 - 3:30 pm Eastern Time US*
 
 **Format** :: *Online, virtual lectures*
 
