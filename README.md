@@ -1,3 +1,5 @@
+![image](https://user-images.githubusercontent.com/10615650/207986092-ba9a6712-fd2a-4359-be20-d71bcf8eb163.png)
+
 # 8th Annual MIT IAP Computational Law Workshop
 
 **Date** :: *January 19, 2023*
