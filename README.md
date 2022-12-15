@@ -2,7 +2,7 @@
 
 **Date** :: *January 19, 2023*
 
-**Time** :: *1:30 - 5:30 Eastern Time US*
+**Time** :: *2 - 3:30 Eastern Time US*
 
 **Format** :: *Online, virtual lectures*
 
@@ -20,3 +20,6 @@
 
 ## Sign-up
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLScbH7sPx8hecZWcrb9t7C0pI1ik2qw6wWxv2K9paUrn5nYvmg/viewform?embedded=true" width="640" height="1957" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+
+
+> *View in [GitHub](https://github.com/mitmedialab/2023-MIT-IAP-ComputationalLaw/)*
