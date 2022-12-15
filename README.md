@@ -31,4 +31,4 @@
 
 -------------------------------------------------------------------
 
-*View on [GitHub](https://github.com/mitmedialab/2023-MIT-IAP-ComputationalLaw/)*
+*View on [GitHub](https://github.com/mitmedialab/2023-MIT-IAP-ComputationalLaw/)* 
