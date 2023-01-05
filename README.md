@@ -15,11 +15,9 @@
 
 **2:00 - 2:05 pm** :: *Introduction*
 
-**2:05 - 2:35 pm** :: *Computational Law Issues and Options Arising from Generative AI*
+**2:05 - 2:50 pm** :: *Computational Law Issues and Options Arising from Generative AI*
 
-**2:35 - 3:05 pm** :: *Composable Governance*
-
-**3:05 - 3:15 pm** :: *Introduction to* Computational Law Research @MIT
+**2:50 - 3:15 pm** :: *Composable Governance*
 
 **3:15 - 3:25 pm** :: *Call to Action* - Hard Problems in Computational Law
 
