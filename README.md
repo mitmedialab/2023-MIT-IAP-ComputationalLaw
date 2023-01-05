@@ -16,6 +16,9 @@
 **2:00 - 2:05 pm** :: *Introduction*
 
 **2:05 - 2:50 pm** :: *Computational Law Issues and Options Arising from Generative AI*
+* ChatGPT Takes the Bar with Professor Dan Katz and Michael Bommarito
+* Next generation prompt engineering with Jesse Han (Multi.tech) 
+* Legal Prompt Engineering 
 
 **2:50 - 3:15 pm** :: *Composable Governance*
 
