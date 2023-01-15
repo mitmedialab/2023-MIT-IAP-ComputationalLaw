@@ -1,6 +1,6 @@
 ![image](https://user-images.githubusercontent.com/10615650/207986092-ba9a6712-fd2a-4359-be20-d71bcf8eb163.png)
 
-# 8th Annual MIT IAP Computational Law Workshop
+# 8th Annual [MIT IAP Computational Law Workshop](https://mitmedialab.github.io/2023-MIT-IAP-ComputationalLaw)
 
 **Date** :: *January 19, 2023*
 
@@ -27,7 +27,7 @@
 
 **3:15 - 3:25 pm** :: *Call to Action* - Hard Problems in Computational Law
 
-**3:25 - 3:30 pm** :: *Program Notes* - 2023 Look-Ahead
+**3:25 - 3:30 pm** :: *Program Notes* - 2023 Look-Ahead for [law.MIT.edu](https://law.mit.edu)
 
 **3:30 - 3:50 pm** :: *Fireside Chat* A special session with Joshua Browder
 
