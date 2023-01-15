@@ -4,13 +4,16 @@
 
 **Date** :: *January 19, 2023*
 
-**Time** :: *2 - 3:30 pm Eastern Time US*
+**Time** :: *2:00 - 4:00 pm Eastern Time US*
 
 **Format** :: *Online, virtual lectures*
 
-**Speakers** :: Dazza Greenwood, Bryan Wilson, Megan Ma, Wassim Alsindi
+**Instructor** :: Dazza Greenwood
+
+**Co-Instructors** :: Bryan Wilson, Megan Ma, Wassim Alsindi
 
 ## Agenda
+
 **Time** :: *Subject*
 
 **2:00 - 2:05 pm** :: *Introduction*
@@ -24,9 +27,17 @@
 
 **3:15 - 3:25 pm** :: *Call to Action* - Hard Problems in Computational Law
 
-**3:25 - 3:30 pm** :: *Wrap-up*
+**3:25 - 3:30 pm** :: *Program Notes* - 2023 Look-Ahead
 
-## Sign-up
+## Fireside Chat
+
+**3:30 - 3:50 pm** :: A special session with Joshua Browder
+
+**3:50 - 4:00 pm** :: *Wrap-up* 
+
+
+
+## Register 
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLScbH7sPx8hecZWcrb9t7C0pI1ik2qw6wWxv2K9paUrn5nYvmg/viewform?embedded=true" width="640" height="1957" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
 
 
