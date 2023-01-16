@@ -34,6 +34,13 @@
 **3:50 - 4:00 pm** :: *Wrap-up* 
 
 
+## Background Readings
+
+* [ChatGPT on Fiduciary Duties](https://www.civics.com/pub/chatgpt-session-2022-12-17)
+* [GPT Takes the Bar Exam](https://arxiv.org/abs/2212.14402)
+* [GPT For Consumer Refunds](https://www.vice.com/en/article/pkg94v/deepfake-voice-do-not-pay-wells-fargo-refund)
+* [Collected Works on Composable Governance](https://law.mit.edu/composablegovernance)
+
 
 ## Register (permission of instructors required)
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLScbH7sPx8hecZWcrb9t7C0pI1ik2qw6wWxv2K9paUrn5nYvmg/viewform?embedded=true" width="640" height="1957" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
