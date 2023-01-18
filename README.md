@@ -41,7 +41,7 @@
 * [GPT For Consumer Refunds](https://www.vice.com/en/article/pkg94v/deepfake-voice-do-not-pay-wells-fargo-refund)
 * [Collected Works on Composable Governance](https://law.mit.edu/composablegovernance)
 
-Accepted registrants will receive additional materials in preparation for this workshop.
+We will send additional materials in preparation for this workshop to all accepted registrants.
 
 
 ## Register (permission of instructors required)
