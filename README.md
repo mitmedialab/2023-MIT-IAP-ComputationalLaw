@@ -46,7 +46,7 @@ We will send additional materials in preparation for this workshop to all accept
 
 ## Register (permission of instructors required)
 
-> use the embedded form below of [this direct link](https://forms.gle/C8bTzrNztKuMyZ7y8)
+> Apply using the embedded form below of [this direct link](https://forms.gle/FLnhyn1f3hwGiW956)
 
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLScbH7sPx8hecZWcrb9t7C0pI1ik2qw6wWxv2K9paUrn5nYvmg/viewform?embedded=true" width="640" height="1957" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
 
