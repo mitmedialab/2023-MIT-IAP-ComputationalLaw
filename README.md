@@ -1,6 +1,14 @@
 ![image](https://user-images.githubusercontent.com/10615650/207986092-ba9a6712-fd2a-4359-be20-d71bcf8eb163.png)
 
-# 8th Annual [MIT IAP Computational Law Workshop](https://mitmedialab.github.io/2023-MIT-IAP-ComputationalLaw)
+## 8th Annual [MIT IAP Computational Law Workshop](https://mitmedialab.github.io/2023-MIT-IAP-ComputationalLaw)
+
+------------------------------------
+
+> **AN ARCHIVE OF THIS WORKSHOP, INCLUDING VIDEO OF LIVE SESSIONS, IS AVAILABLE AT: [https://law.mit.edu/pub/2023-workshop](https://law.mit.edu/pub/2023-workshop)** 
+
+> **To participate in future events on these topics, including the periodic "IdeaFlow" series of discussion sessions, request an invitation at: [https://forms.gle/DB4oBQvYL5ZEXbRq9](https://forms.gle/DB4oBQvYL5ZEXbRq9)**
+
+--------------------------------------
 
 **Date** :: *January 19, 2023*
 
@@ -46,7 +54,9 @@ We will send additional materials in preparation for this workshop to all accept
 
 ## Register (permission of instructors required)
 
-> Apply using the embedded form below of [this direct link](https://forms.gle/FLnhyn1f3hwGiW956)
+> Applications to participate in this workshop are now closed.  **AN ARCHIVE OF THIS WORKSHOP, INCLUDING VIDEO OF LIVE SESSIONS, IS AVAILABLE AT: [https://law.mit.edu/pub/2023-workshop](https://law.mit.edu/pub/2023-workshop)** 
+
+> To participate in future events on these topics, including the periodic "IdeaFlow" series of discussion sessions, request an invitation at: [https://forms.gle/DB4oBQvYL5ZEXbRq9](https://forms.gle/DB4oBQvYL5ZEXbRq9) 
 
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLScbH7sPx8hecZWcrb9t7C0pI1ik2qw6wWxv2K9paUrn5nYvmg/viewform?embedded=true" width="640" height="1957" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
 
